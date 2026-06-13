@@ -11,16 +11,11 @@
 # VS Code
 .vscode/
 
-# Compiled files
+# Java
 *.class
-
-# Build directories
+bin/
 target/
-build/
 out/
-
-# Logs
-*.log
 
 # OS files
 .DS_Store
