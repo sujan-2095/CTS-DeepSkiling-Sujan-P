@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;SingletonPatternExample.Logging.java&apos; to &apos;Logger.java&apos;&#x0D;&#x0A;- Original project: &apos;SingletonPatternExample&apos;&#x0D;&#x0A;- Original element: &apos;SingletonPatternExample.Logging.java&apos;&#x0D;&#x0A;- Renamed element: &apos;SingletonPatternExample.Logger.java&apos;" description="Rename compilation unit &apos;Logging.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/&lt;SingletonPatternExample{Logging.java" name="Logger.java" references="false" stamp="1781362576162" version="1.0"/>
+</session>
